@@ -39,7 +39,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="45" height="40"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="140" height="40"/>
 </a>
 
 
