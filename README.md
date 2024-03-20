@@ -28,9 +28,9 @@
 
 <p align="left"> 
 
-
-<link rel="stylesheet" href="http://www.w3.org/2000/svg" />
-
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png" alt="Node.js" width="40" height="40"/>
+</a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -43,12 +43,12 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/DevGoyalG">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevGoyalG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevGoyalG&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/adityaranjan2005">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityaranjan2005&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityaranjan2005&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devgoyalg&" alt="devgoyalg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaranjan2005&" alt="adityaranjan2005" /></p>
 
