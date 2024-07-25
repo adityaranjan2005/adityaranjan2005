@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=adityaranjan2005&theme=algolia)](https://github.com/adityaranjan2005/github-profile-trophy)
 
 ## 👨‍💻  &nbsp;About Me 
-- 🐍♨️ I'm **Python & Javascript** coder
+- ♨️🐍 I'm **Java, Python & Javascript** coder
 - 🌱 I’m currently learning **Data Structure and Algorithm & Full Stack Web Development**
 - 💻 **5⭐** on **HackerRank** in **Python, SQL**
 - 📫 Feel free to contact me : **103ranjanadityakishu@gmail.com**
