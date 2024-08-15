@@ -13,13 +13,19 @@
 - 📫 Feel free to contact me : **103ranjanadityakishu@gmail.com**
 - ⚡ Fun fact **I am memer and formula 1 lover**
 
- ## 🤝🏻 &nbsp;Connect with Me
+<p align="left"> <a href="https://twitter.com/adi_sayyss" target="blank"><img src="https://img.shields.io/twitter/follow/adi_sayyss?logo=twitter&style=for-the-badge" alt="adi_sayyss" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  
-<a href="https://www.linkedin.com/in/adityaranjan2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityaranjan2005" height="30" width="40" /></a>
-<a href="https://twitter.com/adityaXf1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityaXf1" height="30" width="40" /></a>
+<a href="https://twitter.com/adi_sayyss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adi_sayyss" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adityaranjan2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityaranjan2005" height="30" width="40" /></a>
 <a href="https://discord.com/users/aditya.ranjan2005" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="aditya.ranjan2005" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adityaranjan2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityaranjan2005" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/103ranjanadityakishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="103ranjanadityakishu" height="30" width="40" /></a>
+</p>
+
+
+
 
 </p>
 
