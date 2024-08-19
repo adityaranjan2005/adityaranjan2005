@@ -18,18 +18,6 @@
 
 <p align="left"> <a href="https://twitter.com/adi_sayyss" target="blank"><img src="https://img.shields.io/twitter/follow/adi_sayyss?logo=twitter&style=for-the-badge" alt="adi_sayyss" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adi_sayyss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adi_sayyss" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adityaranjan2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityaranjan2005" height="30" width="40" /></a>
-<a href="https://discord.com/users/aditya.ranjan2005" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="aditya.ranjan2005" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adityaranjan2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityaranjan2005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/103ranjanadityakishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="103ranjanadityakishu" height="30" width="40" /></a>
-</p>
-
-
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,4 +45,13 @@
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
+## 🙋‍♀️ Let's Connect
 
+<p align="center">
+	<a href="https://linktr.ee/adityaranjan2005" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/adityaranjan2005" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/adityaranjan2005/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
+	<a href="https://www.twitter.com/adi_sayyss/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Instagram"/></a>
+	<a href="mailto:103ranjanadityakishu@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
