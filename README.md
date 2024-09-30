@@ -55,3 +55,5 @@
 	<a href="https://www.x.com/adi_sayyss/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Instagram"/></a>
 	<a href="mailto:103ranjanadityakishu@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
+
+[![@adityaranjan2005's Holopin board](https://holopin.me/adityaranjan2005)](https://holopin.io/@adityaranjan2005)
