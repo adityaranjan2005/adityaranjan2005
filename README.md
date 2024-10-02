@@ -27,11 +27,13 @@
 <p>
 
 ## ⚙️ &nbsp;GitHub Analytics
-
+<p align='center'>
 [![adityaranjan2005's GitHub | Stats](https://stats.quira.sh/adityaranjan2005/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=adityaranjan2005)
+</p>
 [![adityaranjan2005's GitHub | Languages Over Time](https://stats.quira.sh/adityaranjan2005/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=adityaranjan2005)
 [![adityaranjan2005's GitHub | Topics Over Time](https://stats.quira.sh/adityaranjan2005/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=adityaranjan2005)
 
+<p align="left"> 
 <a href="https://github.com/adityaranjan2005"> 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityaranjan2005&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
 <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityaranjan2005&layout=compact&langs_count=8&theme=algolia"/> 
