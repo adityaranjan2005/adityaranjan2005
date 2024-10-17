@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaranjan2005&label=Profile%20views&color=0e75b6&style=flat" alt="adityaranjan2005" /> </p>
 
 ## &nbsp;🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=adityaranjan2005&theme=algolia)](https://github.com/adityaranjan2005/github-profile-trophy)
 
 <img src="https://github-profile-trophy.vercel.app/?username=adityaranjan2005&theme=juicyfresh&no-bg=true" />
 
