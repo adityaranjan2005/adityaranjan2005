@@ -21,9 +21,7 @@
 
 </p>
 
-<h3 align="left">Technical Skills & Expertise</h3>
-
-
+## 👨‍💻  &nbsp;Technical Skills and Expertise
 **Programming Languages:**
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,c,java,ts,solidity,matlab)](https://skillicons.dev)
