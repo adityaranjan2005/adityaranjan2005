@@ -84,15 +84,19 @@
 <p>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<div style="text-align: center;">
+<div style="width: 100%;">
     <a href="https://quira.sh?utm_source=widgets&utm_campaign=adityaranjan2005">
-        <img src="https://stats.quira.sh/adityaranjan2005/github?theme=dark" />
+        <img src="https://stats.quira.sh/adityaranjan2005/github?theme=dark" style="width: 100%;" />
     </a>
+</div>
+<div style="width: 100%;">
     <a href="https://quira.sh?utm_source=widgets&utm_campaign=adityaranjan2005">
-        <img src="https://stats.quira.sh/adityaranjan2005/languages-over-time?theme=dark" />
+        <img src="https://stats.quira.sh/adityaranjan2005/languages-over-time?theme=dark" style="width: 100%;" />
     </a>
+</div>
+<div style="width: 100%;">
     <a href="https://quira.sh?utm_source=widgets&utm_campaign=adityaranjan2005">
-        <img src="https://stats.quira.sh/adityaranjan2005/topics-over-time?theme=dark" />
+        <img src="https://stats.quira.sh/adityaranjan2005/topics-over-time?theme=dark" style="width: 100%;" />
     </a>
 </div>
 
