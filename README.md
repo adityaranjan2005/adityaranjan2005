@@ -84,21 +84,18 @@
 <p>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<div style="width: 100%;">
+<div style="text-align: center;">
     <a href="https://quira.sh?utm_source=widgets&utm_campaign=adityaranjan2005">
-        <img src="https://stats.quira.sh/adityaranjan2005/github?theme=dark" style="width: 100%;" />
+        <img src="https://stats.quira.sh/adityaranjan2005/github?theme=dark" />
+    </a>
+    <a href="https://quira.sh?utm_source=widgets&utm_campaign=adityaranjan2005">
+        <img src="https://stats.quira.sh/adityaranjan2005/languages-over-time?theme=dark" />
+    </a>
+    <a href="https://quira.sh?utm_source=widgets&utm_campaign=adityaranjan2005">
+        <img src="https://stats.quira.sh/adityaranjan2005/topics-over-time?theme=dark" />
     </a>
 </div>
-<div style="width: 100%;">
-    <a href="https://quira.sh?utm_source=widgets&utm_campaign=adityaranjan2005">
-        <img src="https://stats.quira.sh/adityaranjan2005/languages-over-time?theme=dark" style="width: 100%;" />
-    </a>
-</div>
-<div style="width: 100%;">
-    <a href="https://quira.sh?utm_source=widgets&utm_campaign=adityaranjan2005">
-        <img src="https://stats.quira.sh/adityaranjan2005/topics-over-time?theme=dark" style="width: 100%;" />
-    </a>
-</div>
+
 
 <p align="left"> 
 <a href="https://github.com/adityaranjan2005"> 
