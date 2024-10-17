@@ -9,6 +9,8 @@
 ## &nbsp;🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=adityaranjan2005&theme=algolia)](https://github.com/adityaranjan2005/github-profile-trophy)
 
+<img src="https://github-profile-trophy.vercel.app/?username=adityaranjan2005&theme=juicyfresh&no-bg=true" />
+
 ## 👨‍💻  &nbsp;About Me 
 - ♨️🐍 I'm **Java, Python & Javascript** coder
 - 🌱 I’m currently learning **Data Structure and Algorithm & Full Stack Web Development**
