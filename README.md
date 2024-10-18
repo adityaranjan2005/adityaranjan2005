@@ -54,7 +54,7 @@
 
 **Design & Prototyping:**
 
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,canva)](https://skillicons.dev)
 
 
 **Data Visualization:**
