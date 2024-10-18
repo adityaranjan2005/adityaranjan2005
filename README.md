@@ -8,7 +8,7 @@
 
 ---
 
-<p align="left"> <a href="https://twitter.com/adi_sayyss" target="blank"><img src="https://img.shields.io/twitter/follow/adi_sayyss?logo=twitter&style=for-the-badge" alt="adi_sayyss" /></a> </p>
+<p align="right"> <a href="https://twitter.com/adi_sayyss" target="blank"><img src="https://img.shields.io/twitter/follow/adi_sayyss?logo=twitter&style=for-the-badge" alt="adi_sayyss" /></a> </p>
 
 ---
 
