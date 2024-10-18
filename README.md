@@ -6,6 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaranjan2005&label=Profile%20views&color=0e75b6&style=flat" alt="adityaranjan2005" /> </p>
 
+
+<p align="left"> <a href="https://twitter.com/adi_sayyss" target="blank"><img src="https://img.shields.io/twitter/follow/adi_sayyss?logo=twitter&style=for-the-badge" alt="adi_sayyss" /></a> </p>
+
 ## &nbsp;🏆 GitHub Profile Trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=adityaranjan2005&theme=juicyfresh&no-bg=true" />
@@ -16,8 +19,6 @@
 - 💻 **5⭐** on **HackerRank** in **Python, SQL**
 - 📫 Feel free to contact me : **103ranjanadityakishu@gmail.com**
 - ⚡ Fun fact **I am memer and formula 1 lover**
-
-<p align="left"> <a href="https://twitter.com/adi_sayyss" target="blank"><img src="https://img.shields.io/twitter/follow/adi_sayyss?logo=twitter&style=for-the-badge" alt="adi_sayyss" /></a> </p>
 
 </p>
 
