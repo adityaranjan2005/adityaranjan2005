@@ -4,9 +4,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;MERN+Stack+Web+Developer;Pro+DSA+Solver;Devops+Enthusiast;Blockchain+and+Web+3.0;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<p> <img align="left" src="https://komarev.com/ghpvc/?username=adityaranjan2005&label=Profile%20views&color=0e75b6&style=flat" alt="adityaranjan2005" /> 
-<a align="right" href="https://twitter.com/adi_sayyss" target="blank"><img src="https://img.shields.io/twitter/follow/adi_sayyss?logo=twitter&style=for-the-badge" alt="adi_sayyss" /></a> </p>
-
+<p> 
+  <img src="https://komarev.com/ghpvc/?username=adityaranjan2005&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub profile views of adityaranjan2005" style="float: left; margin-right: 10px;" />
+  <a href="https://twitter.com/adi_sayyss" target="_blank" style="float: right;">
+    <img src="https://img.shields.io/twitter/follow/adi_sayyss?logo=twitter&style=for-the-badge" alt="adi_sayyss Twitter followers" />
+  </a>
+</p>
 ---
 
 ## &nbsp;🏆 GitHub Profile Trophy
