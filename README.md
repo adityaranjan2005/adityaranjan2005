@@ -6,7 +6,7 @@
 
 <p> 
   <img src="https://komarev.com/ghpvc/?username=adityaranjan2005&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub profile views of adityaranjan2005" style="float: left; margin-right: 100px;" />
-  <a href="https://twitter.com/adi_sayyss" target="_blank" style="float: right;">
+  <a href="https://twitter.com/adi_sayyss" target="_blank" style="float: right; margin-left: 100px;">
     <img src="https://img.shields.io/twitter/follow/adi_sayyss?logo=twitter&style=for-the-badge" alt="adi_sayyss Twitter followers" />
   </a>
 </p>
