@@ -21,8 +21,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=adityaranjan2005&theme=juicyfresh&no-bg=true" />
 
 ## 👨‍💻  &nbsp;About Me 
-- ♨️🐍 I'm **Java, Python & Javascript** coder
-- 🌱 I’m currently learning **Data Structure and Algorithm & Full Stack Web Development**
+- ♨️🐍 I'm **Multilingual** coder
+- 🌱 I’m currently learning **Data Structure and Algorithm, Devops and WEB 3.0**
 - 💻 **5⭐** on **HackerRank** in **Python, SQL**
 - 📫 Feel free to contact me : **103ranjanadityakishu@gmail.com**
 - ⚡ Fun fact **I am memer and formula 1 lover**
