@@ -20,7 +20,7 @@
 
 ## &nbsp;🏆 GitHub Profile Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?adityaranjan2005=ryo-ma&theme=chalk" />
+<img src="https://github-profile-trophy.vercel.app/?username=adityaranjan2005&theme=chalk&no-bg=true" />
 
 ## 👨‍💻  &nbsp;About Me 
 - ⚡ Founding Member at **Swapso** — a Bitcoin-only self-custody wallet  
