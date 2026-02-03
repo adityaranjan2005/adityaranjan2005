@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Aditya Ranjan 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;MERN+Stack+Web+Developer;Pro+DSA+Solver;Devops+Enthusiast;Blockchain+and+Web+3.0;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Founder+of+Swapso;Bitcoin+Developer+and+Product+Builder;Self+Custody+and+Lightning+Advocate;Blockchain+and+Web+3.0;Building+Bitcoin+in+India&center=true&width=500&height=45">
+  </a>
 </p>
 
 <p> 
@@ -10,8 +12,8 @@
 
 <p></p>
 
-<p><a href="https://twitter.com/adi_sayyss" target="_blank" style="float: right; margin-left: 100px;">
-    <img src="https://img.shields.io/twitter/follow/adi_sayyss?logo=twitter&style=for-the-badge" alt="adi_sayyss Twitter followers" />
+<p><a href="https://twitter.com/em_adii" target="_blank" style="float: right; margin-left: 100px;">
+    <img src="https://img.shields.io/twitter/follow/em_adii?logo=twitter&style=for-the-badge" alt="em_adii Twitter followers" />
   </a></p>
 
 ---
@@ -21,11 +23,12 @@
 <img src="https://github-profile-trophy.vercel.app/?username=adityaranjan2005&theme=juicyfresh&no-bg=true" />
 
 ## 👨‍💻  &nbsp;About Me 
-- 📈 I'm **Multilingual** coder
-- 🌱 I’m currently learning **Data Structure and Algorithm, Devops and WEB 3.0**
-- 💻 **5⭐** on **HackerRank** in **Python, SQL**
-- 📫 Feel free to contact me : **103ranjanadityakishu@gmail.com**
-- ⚡ Fun fact **I am memer and formula 1 lover**
+- ⚡ Founding Member at **Swapso** — a Bitcoin-only self-custody wallet  
+- 🧩 Developer & Product Manager building **Lightning wallet features, BTC swaps, and Web3 tools**  
+- 🌍 Initiator of **Bitcoin Bharat** — spreading Bitcoin awareness across India  
+- 📈 Experienced in **Python, SQL, and building scalable web applications**  
+- 📫 Feel free to contact me: **103ranjanadityakishu@gmail.com**  
+- 🏎️ Fun fact: **Formula 1 enthusiast & Bitcoin maximalist**
 
 </p>
 
@@ -115,8 +118,7 @@
 	<a href="https://linktr.ee/adityaranjan2005" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/adityaranjan2005" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/adityaranjan2005/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
-	<a href="https://www.x.com/adi_sayyss/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Instagram"/></a>
+	<a href="https://www.x.com/em_adii/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="X/Twitter"/></a>
 	<a href="mailto:103ranjanadityakishu@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
