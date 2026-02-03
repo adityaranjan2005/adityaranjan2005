@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Founder+of+Swapso;Bitcoin+Developer+and+Product+Builder;Self+Custody+and+Lightning+Advocate;Blockchain+and+Web+3.0;Building+Bitcoin+in+India&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Founding+Member+of+Swapso;Bitcoin+Developer+and+Product+Builder;Self+Custody+and+Lightning+Advocate;Blockchain+and+Web+3.0;Building+Bitcoin+in+India&center=true&width=500&height=45">
   </a>
 </p>
 
