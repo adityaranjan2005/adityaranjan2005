@@ -23,9 +23,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=adityaranjan2005&theme=chalk&no-bg=true" />
 
 ## 👨‍💻  &nbsp;About Me 
-- ⚡ Founding Member at **Swapso** — a Bitcoin-only self-custody wallet  
+- ⚡ Founding Member at **Swapso**  a Bitcoin-only self-custody wallet  
 - 🧩 Developer & Product Manager building **Lightning wallet features, BTC swaps, and Web3 tools**  
-- 🌍 Initiator of **Bitcoin Bharat** — spreading Bitcoin awareness across India  
+- 🌍 Initiator of **Bitcoin Bharat**  spreading Bitcoin awareness across India  
 - 📈 Experienced in **Python, SQL, and building scalable web applications**  
 - 📫 Feel free to contact me: **103ranjanadityakishu@gmail.com**  
 - 🏎️ Fun fact: **Formula 1 enthusiast & Bitcoin maximalist**
